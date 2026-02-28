@@ -13,7 +13,7 @@ Previously led full-stack backend development
 
 ---
 
-C/C++ • Python • SQL • Node.js • Linux • PostgreSQL  
+C/C++ • Python • SQL • Node.js • Linux • PostgreSQL • Scikit-learn
 
 📫 mulkum.badalov@metu.edu.tr  
 🔗 linkedin.com/in/mulkum-badalov
