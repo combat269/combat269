@@ -8,17 +8,17 @@ Focused on Security, Distributed Systems & Backend Engineering
 
 ## 🔬 Research – Edge-Based IoT Botnet Detection
 
-Undergraduate Researcher under Prof. Dr. Ertan Onur
+Undergraduate Researcher under Prof. Dr. Ertan Onur (Feb 2026 – Present)
 
-Designing and implementing a lightweight decentralized Network Intrusion Detection System (NIDS) to mitigate IoT-driven DDoS attacks such as Mirai and Gafgyt.
+Currently designing and implementing a lightweight decentralized Network Intrusion Detection System (NIDS) to mitigate IoT-driven DDoS attacks such as Mirai and Gafgyt.
 
-### Key Contributions
-- Designed edge-based NIDS architecture (Python + Linux)
-- Built flow-level feature extraction pipeline
-- Benchmarked lightweight ML classifiers (Scikit-learn)
-- Evaluated models using precision, recall, F1-score
-- Implemented real-time mitigation via iptables on Raspberry Pi
-- Packet-level traffic analysis using Wireshark
+### Current Work & Contributions
+- Designing edge-based NIDS architecture (Python + Linux)
+- Developing a flow-level feature extraction pipeline
+- Benchmarking lightweight ML classifiers using Scikit-learn
+- Evaluating models using precision, recall, and F1-score
+- Implementing real-time mitigation via iptables on Raspberry Pi
+- Performing packet-level traffic analysis with Wireshark
 - Preparing manuscript targeting ACM ICIT 2026
 
 Tech Stack:
