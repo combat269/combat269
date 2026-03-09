@@ -1,19 +1,10 @@
-# Mulkum Badalov
+# Hi, I'm Mulkum Badalov 👋
 
-Computer Engineering @ METU  
-Undergraduate Researcher @ WINS Lab  
+Computer Engineering student at METU  
+Undergraduate Researcher at WINS Lab, @ METU
 
-Security • Distributed Systems • Backend Engineering  
-
-Currently researching lightweight edge-based NIDS for IoT botnet detection  
-(Python, Linux, Scikit-learn, Raspberry Pi)
-
-Previously led full-stack backend development  
-(Node.js, PostgreSQL, JWT, CI/CD)
-
----
-
-C/C++ • Python • SQL • Node.js • Linux • PostgreSQL • Scikit-learn
+Focused on **Backend Engineering, AI/ML, and Systems Development**  
+Interested in building **scalable backend tools, intelligent software, and data-driven systems**
 
 📫 mulkum.badalov@metu.edu.tr  
 🔗 linkedin.com/in/mulkum-badalov
